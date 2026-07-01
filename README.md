@@ -1,2 +1,2 @@
 # llm-zoom-camp-2026
-LLM Zoom Camp Cource
+LLM Zoom Camp Course
